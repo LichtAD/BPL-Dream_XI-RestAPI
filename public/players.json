@@ -1,0 +1,104 @@
+{
+    "players": [
+        {
+            "playerId": 1,
+            "name": "Virat Kohli",
+            "country": "India",
+            "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/387700/387767.jpg",
+            "role": "Batsman",
+            "battingType": "Right-hand bat",
+            "bowlingType": "Right-arm medium",
+            "biddingPrice": 4
+        },
+        {
+            "playerId": 2,
+            "name": "Kane Williamson",
+            "country": "New Zealand",
+            "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/387800/387872.jpg",
+            "role": "Batsman",
+            "battingType": "Right-hand bat",
+            "bowlingType": "Right-arm offbreak",
+            "biddingPrice": 3
+        },
+        {
+            "playerId": 3,
+            "name": "Pat Cummins",
+            "country": "Australia",
+            "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/383500/383559.jpg",
+            "role": "Bowler",
+            "battingType": "Right-hand bat",
+            "bowlingType": "Right-arm fast",
+            "biddingPrice": 5
+        },
+        {
+            "playerId": 4,
+            "name": "Ben Stokes",
+            "country": "England",
+            "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/388400/388429.jpg",
+            "role": "All-rounder",
+            "battingType": "Left-hand bat",
+            "bowlingType": "Right-arm medium-fast",
+            "biddingPrice": 4
+        },
+        {
+            "playerId": 5,
+            "name": "Jasprit Bumrah",
+            "country": "India",
+            "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/389400/389441.jpg",
+            "role": "Bowler",
+            "battingType": "Right-hand bat",
+            "bowlingType": "Right-arm fast",
+            "biddingPrice": 4
+        },
+        {
+            "playerId": 6,
+            "name": "Quinton de Kock",
+            "country": "South Africa",
+            "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/384000/384065.jpg",
+            "role": "Wicketkeeper-batsman",
+            "battingType": "Left-hand bat",
+            "bowlingType": "N/A",
+            "biddingPrice": 3
+        },
+        {
+            "playerId": 7,
+            "name": "Rashid Khan",
+            "country": "Afghanistan",
+            "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/382200/382229.jpg",
+            "role": "Bowler",
+            "battingType": "Right-hand bat",
+            "bowlingType": "Right-arm legbreak",
+            "biddingPrice": 5
+        },
+        {
+            "playerId": 8,
+            "name": "David Warner",
+            "country": "Australia",
+            "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/383100/383166.jpg",
+            "role": "Batsman",
+            "battingType": "Left-hand bat",
+            "bowlingType": "N/A",
+            "biddingPrice": 4
+        },
+        {
+            "playerId": 9,
+            "name": "Andre Russell",
+            "country": "West Indies",
+            "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/383400/383481.jpg",
+            "role": "All-rounder",
+            "battingType": "Right-hand bat",
+            "bowlingType": "Right-arm fast",
+            "biddingPrice": 5
+        },
+        {
+            "playerId": 10,
+            "name": "Babar Azam",
+            "country": "Pakistan",
+            "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/382400/382458.jpg",
+            "role": "Batsman",
+            "battingType": "Right-hand bat",
+            "bowlingType": "N/A",
+            "biddingPrice": 4
+        }
+    ]
+}

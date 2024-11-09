@@ -1,0 +1,10 @@
+.newsletter-bg {
+    background-image: url(../../assets/bg-shadow.png);
+    background-size: cover;
+    background-position: center;
+    /* object-fit: contain; */
+}
+
+.btn_color {
+    background-image: linear-gradient(to right top, #ff8787, #ff9976, #ffb064, #ffcb56, #ffe752);
+}
